@@ -1,2 +1,5 @@
-# Ignore all CSV files
+# Ignore all CSV files (May be sensitive data)
 *csv
+*structure
+test*
+venv/
